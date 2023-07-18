@@ -12,8 +12,8 @@ body{
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    color: white;
+    flex-direction: none;
+    color: white
 }
 canvas{
     background-color: #111;
